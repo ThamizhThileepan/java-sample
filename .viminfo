@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1715433583,,"wq"
 :q!
-|2,0,1715433405,,"q!"
+|2,0,1715434700,,"q!"
+:wq
+|2,0,1715434654,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -30,28 +30,64 @@
 |3,1,36,0,1,0,1715433395,"2"
 
 # File marks:
-'0  1  14  ~/src/test/test1.txt
-|4,48,1,14,1715433583,"~/src/test/test1.txt"
-'1  1  3  ~/Procfile
-|4,49,1,3,1715433405,"~/Procfile"
-'2  1  3  ~/Procfile
-|4,50,1,3,1715433397,"~/Procfile"
-'3  1  3  ~/Procfile
-|4,51,1,3,1715433385,"~/Procfile"
-'4  1  3  ~/Procfile
-|4,52,1,3,1715433385,"~/Procfile"
+'0  1  3  ~/Procfile
+|4,48,1,3,1715434700,"~/Procfile"
+'1  3  7  ~/.gitignore
+|4,49,3,7,1715434654,"~/.gitignore"
+'2  2  0  ~/.gitignore
+|4,50,2,0,1715434632,"~/.gitignore"
+'3  2  0  ~/.gitignore
+|4,51,2,0,1715434632,"~/.gitignore"
+'4  1  14  ~/src/test/test1.txt
+|4,52,1,14,1715433583,"~/src/test/test1.txt"
 '5  1  3  ~/Procfile
-|4,53,1,3,1715433295,"~/Procfile"
+|4,53,1,3,1715433405,"~/Procfile"
 '6  1  3  ~/Procfile
-|4,54,1,3,1715433295,"~/Procfile"
+|4,54,1,3,1715433397,"~/Procfile"
 '7  1  3  ~/Procfile
-|4,55,1,3,1715433295,"~/Procfile"
+|4,55,1,3,1715433397,"~/Procfile"
 '8  1  3  ~/Procfile
-|4,56,1,3,1715433295,"~/Procfile"
+|4,56,1,3,1715433385,"~/Procfile"
 '9  1  3  ~/Procfile
-|4,57,1,3,1715433263,"~/Procfile"
+|4,57,1,3,1715433385,"~/Procfile"
 
 # Jumplist (newest first):
+-'  1  3  ~/Procfile
+|4,39,1,3,1715434700,"~/Procfile"
+-'  3  7  ~/.gitignore
+|4,39,3,7,1715434654,"~/.gitignore"
+-'  3  7  ~/.gitignore
+|4,39,3,7,1715434654,"~/.gitignore"
+-'  2  4  ~/.gitignore
+|4,39,2,4,1715434645,"~/.gitignore"
+-'  2  4  ~/.gitignore
+|4,39,2,4,1715434645,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1715434632,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1715434632,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1715434616,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1715434616,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1715434616,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1715434616,"~/.gitignore"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
+-'  1  14  ~/src/test/test1.txt
+|4,39,1,14,1715433583,"~/src/test/test1.txt"
 -'  1  14  ~/src/test/test1.txt
 |4,39,1,14,1715433583,"~/src/test/test1.txt"
 -'  1  3  ~/Procfile
@@ -59,6 +95,30 @@
 -'  1  3  ~/Procfile
 |4,39,1,3,1715433405,"~/Procfile"
 -'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433405,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433397,"~/Procfile"
+-'  1  3  ~/Procfile
 |4,39,1,3,1715433397,"~/Procfile"
 -'  1  3  ~/Procfile
 |4,39,1,3,1715433397,"~/Procfile"
@@ -67,9 +127,45 @@
 -'  1  3  ~/Procfile
 |4,39,1,3,1715433385,"~/Procfile"
 -'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433385,"~/Procfile"
+-'  1  3  ~/Procfile
 |4,39,1,3,1715433295,"~/Procfile"
 -'  1  3  ~/Procfile
 |4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433295,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
+-'  1  3  ~/Procfile
+|4,39,1,3,1715433263,"~/Procfile"
 -'  1  3  ~/Procfile
 |4,39,1,3,1715433263,"~/Procfile"
 -'  1  3  ~/Procfile
@@ -77,16 +173,25 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/Procfile
+	*	1715434699	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/.gitignore
+	*	1715434652	0
+	"	3	7
+	^	3	8
+	.	3	7
+	+	1	6
+	+	2	4
+	+	3	7
+
 > ~/src/test/test1.txt
 	*	1715433582	0
 	"	1	14
 	^	1	15
 	.	1	14
 	+	1	14
-
-> ~/Procfile
-	*	1715433401	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
